@@ -1,0 +1,575 @@
+
+Starting loop:  0
+ERROR. Error fetching data: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9. 1: https://eth1.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/
+ERROR. Error fetching data: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9. 1: https://eth1.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/
+ERROR. Error fetching data: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9. 1: https://eth1.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/
+ERROR. Error fetching data: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9. 2: https://eth1.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/
+ERROR. Error fetching data: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9. 2: https://eth1.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/
+ERROR. Error fetching data: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9. 2: https://eth1.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/
+ERROR. Error fetching data: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645. 3: https://eth1.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/
+ERROR. Error fetching data: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645. 3: https://eth1.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/
+ERROR. Error fetching data: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645. 3: https://eth1.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/
+ERROR. Error fetching data: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad. 4: https://eth1.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/
+ERROR. Error fetching data: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad. 4: https://eth1.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/
+ERROR. Error fetching data: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad. 4: https://eth1.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/
+ERROR. Error fetching data: 0xC7b6C532560798a0c508778D6530709C91a1B9E8. 5: https://eth1.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/
+ERROR. Error fetching data: 0xC7b6C532560798a0c508778D6530709C91a1B9E8. 5: https://eth1.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/
+ERROR. Error fetching data: 0xC7b6C532560798a0c508778D6530709C91a1B9E8. 5: https://eth1.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/
+ERROR. Error fetching data: 0x9D686b4420a9357662171393647ed34474F31224. 6: https://eth1.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/
+ERROR. Error fetching data: 0x9D686b4420a9357662171393647ed34474F31224. 6: https://eth1.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/
+ERROR. Error fetching data: 0x9D686b4420a9357662171393647ed34474F31224. 6: https://eth1.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/
+ERROR. Error fetching data: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA. 7: https://eth1.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/
+ERROR. Error fetching data: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA. 7: https://eth1.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/
+ERROR. Error fetching data: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA. 7: https://eth1.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/
+ERROR. Error fetching data: 0x4Ea19EB6797179aCba0E662866e4829F437F601E. 8: https://eth1.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/
+ERROR. Error fetching data: 0x4Ea19EB6797179aCba0E662866e4829F437F601E. 8: https://eth1.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/
+ERROR. Error fetching data: 0x4Ea19EB6797179aCba0E662866e4829F437F601E. 8: https://eth1.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/
+ERROR. Error fetching data: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E. 9: https://eth1.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/
+ERROR. Error fetching data: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E. 9: https://eth1.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/
+ERROR. Error fetching data: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E. 9: https://eth1.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/
+ERROR. Error fetching data: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73. 10: https://eth1.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/
+ERROR. Error fetching data: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73. 10: https://eth1.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/
+ERROR. Error fetching data: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73. 10: https://eth1.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/
+ERROR. Error fetching data: 0xc71e77aC6Ea2683871cF477996a89403adeA7545. 11: https://eth1.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/
+ERROR. Error fetching data: 0xc71e77aC6Ea2683871cF477996a89403adeA7545. 11: https://eth1.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/
+ERROR. Error fetching data: 0xc71e77aC6Ea2683871cF477996a89403adeA7545. 11: https://eth1.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/
+ERROR. Error fetching data: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476. 12: https://eth1.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/
+ERROR. Error fetching data: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476. 12: https://eth1.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/
+ERROR. Error fetching data: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476. 12: https://eth1.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/
+ERROR. Error fetching data: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02. 13: https://eth1.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/
+ERROR. Error fetching data: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02. 13: https://eth1.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/
+ERROR. Error fetching data: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02. 13: https://eth1.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/
+ERROR. Error fetching data: 0xF139e8f9FAf80b8195599E92395A525980b55918. 14: https://eth1.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/
+ERROR. Error fetching data: 0xF139e8f9FAf80b8195599E92395A525980b55918. 14: https://eth1.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/
+ERROR. Error fetching data: 0xF139e8f9FAf80b8195599E92395A525980b55918. 14: https://eth1.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/
+ERROR. Error fetching data: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250. 15: https://eth1.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/
+ERROR. Error fetching data: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250. 15: https://eth1.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/
+ERROR. Error fetching data: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250. 15: https://eth1.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/
+ERROR. Error fetching data: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E. 16: https://eth1.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/
+ERROR. Error fetching data: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E. 16: https://eth1.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/
+ERROR. Error fetching data: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E. 16: https://eth1.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/
+ERROR. Error fetching data: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88. 17: https://eth1.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/
+ERROR. Error fetching data: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88. 17: https://eth1.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/
+ERROR. Error fetching data: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88. 17: https://eth1.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/
+ERROR. Error fetching data: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0. 18: https://eth1.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/
+ERROR. Error fetching data: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0. 18: https://eth1.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/
+ERROR. Error fetching data: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0. 18: https://eth1.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/
+ERROR. Error fetching data: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146. 19: https://eth1.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/
+ERROR. Error fetching data: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146. 19: https://eth1.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/
+ERROR. Error fetching data: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146. 19: https://eth1.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/
+ERROR. Error fetching data: 0x71179055b91C9825DF96A57047ad2Bb890792572. 20: https://eth1.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/
+ERROR. Error fetching data: 0x71179055b91C9825DF96A57047ad2Bb890792572. 20: https://eth1.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/
+ERROR. Error fetching data: 0x71179055b91C9825DF96A57047ad2Bb890792572. 20: https://eth1.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/
+ERROR. Error fetching data: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B. 21: https://eth1.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/
+ERROR. Error fetching data: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B. 21: https://eth1.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/
+ERROR. Error fetching data: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B. 21: https://eth1.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/
+ERROR. Error fetching data: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47. 22: https://eth1.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/
+ERROR. Error fetching data: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47. 22: https://eth1.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/
+ERROR. Error fetching data: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47. 22: https://eth1.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/
+ERROR. Error fetching data: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3. 23: https://eth1.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/
+ERROR. Error fetching data: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3. 23: https://eth1.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/
+ERROR. Error fetching data: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3. 23: https://eth1.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/
+ERROR. Error fetching data: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE. 24: https://eth1.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/
+ERROR. Error fetching data: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE. 24: https://eth1.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/
+ERROR. Error fetching data: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE. 24: https://eth1.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/
+ERROR. Error fetching data: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad. 25: https://eth1.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/
+ERROR. Error fetching data: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad. 25: https://eth1.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/
+ERROR. Error fetching data: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad. 25: https://eth1.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/
+ERROR. Error fetching data: 0xa8FE676618a51219c8732899b4b94bD491526B77. 26: https://eth1.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/
+ERROR. Error fetching data: 0xa8FE676618a51219c8732899b4b94bD491526B77. 26: https://eth1.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/
+ERROR. Error fetching data: 0xa8FE676618a51219c8732899b4b94bD491526B77. 26: https://eth1.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/
+ERROR. Error fetching data: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455. 27: https://eth1.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/
+ERROR. Error fetching data: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455. 27: https://eth1.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/
+ERROR. Error fetching data: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455. 27: https://eth1.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/
+ERROR. Error fetching data: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE. 28: https://eth1.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/
+ERROR. Error fetching data: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE. 28: https://eth1.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/
+ERROR. Error fetching data: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE. 28: https://eth1.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/
+ERROR. Error fetching data: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3. 29: https://eth1.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/
+ERROR. Error fetching data: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3. 29: https://eth1.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/
+ERROR. Error fetching data: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3. 29: https://eth1.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/
+1: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9 -> balance: 0.0 ETH
+1: https://near.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/ -> Checked network status
+Error converting status: string indices must be integers
+1: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9 -> gas price: 6.2676008543e-08 Gwei
+1: https://near.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+1: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9 -> block number: 19386333
+2: https://near.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/ -> Checked network status
+Error converting status: string indices must be integers
+2: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9 -> balance: 0.0 ETH
+2: https://near.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+2: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9 -> gas price: 6.2676008543e-08 Gwei
+3: https://near.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/ -> Checked network status
+Error converting status: string indices must be integers
+2: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9 -> block number: 19386333
+3: https://near.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+3: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645 -> balance: 0.0 ETH
+4: https://near.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/ -> Checked network status
+Error converting status: string indices must be integers
+3: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645 -> gas price: 6.2676008543e-08 Gwei
+4: https://near.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+3: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645 -> block number: 19386333
+5: https://near.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/ -> Checked network status
+Error converting status: string indices must be integers
+4: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad -> balance: 0.0 ETH
+5: https://near.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+4: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad -> gas price: 6.2676008543e-08 Gwei
+6: https://near.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/ -> Checked network status
+Error converting status: string indices must be integers
+4: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad -> block number: 19386333
+6: https://near.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+5: 0xC7b6C532560798a0c508778D6530709C91a1B9E8 -> balance: 0.0 ETH
+7: https://near.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/ -> Checked network status
+Error converting status: string indices must be integers
+5: 0xC7b6C532560798a0c508778D6530709C91a1B9E8 -> gas price: 6.2676008543e-08 Gwei
+7: https://near.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+5: 0xC7b6C532560798a0c508778D6530709C91a1B9E8 -> block number: 19386333
+8: https://near.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/ -> Checked network status
+Error converting status: string indices must be integers
+8: https://near.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+6: 0x9D686b4420a9357662171393647ed34474F31224 -> balance: 0.0 ETH
+9: https://near.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/ -> Checked network status
+Error converting status: string indices must be integers
+6: 0x9D686b4420a9357662171393647ed34474F31224 -> gas price: 6.2676008543e-08 Gwei
+6: 0x9D686b4420a9357662171393647ed34474F31224 -> block number: 19386333
+9: https://near.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+7: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA -> balance: 0.0 ETH
+10: https://near.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/ -> Checked network status
+Error converting status: string indices must be integers
+7: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA -> gas price: 6.2676008543e-08 Gwei
+10: https://near.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+7: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA -> block number: 19386333
+11: https://near.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/ -> Checked network status
+Error converting status: string indices must be integers
+11: https://near.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+8: 0x4Ea19EB6797179aCba0E662866e4829F437F601E -> balance: 0.0 ETH
+8: 0x4Ea19EB6797179aCba0E662866e4829F437F601E -> gas price: 6.2676008543e-08 Gwei
+12: https://near.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/ -> Checked network status
+Error converting status: string indices must be integers
+8: 0x4Ea19EB6797179aCba0E662866e4829F437F601E -> block number: 19386333
+12: https://near.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+13: https://near.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/ -> Checked network status
+Error converting status: string indices must be integers
+9: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E -> balance: 0.0 ETH
+9: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E -> gas price: 6.2676008543e-08 Gwei
+13: https://near.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+9: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E -> block number: 19386333
+14: https://near.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/ -> Checked network status
+Error converting status: string indices must be integers
+10: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73 -> balance: 0.0 ETH
+14: https://near.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+10: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73 -> gas price: 6.2676008543e-08 Gwei
+15: https://near.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/ -> Checked network status
+Error converting status: string indices must be integers
+15: https://near.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+10: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73 -> block number: 19386333
+16: https://near.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/ -> Checked network status
+Error converting status: string indices must be integers
+11: 0xc71e77aC6Ea2683871cF477996a89403adeA7545 -> balance: 0.0 ETH
+11: 0xc71e77aC6Ea2683871cF477996a89403adeA7545 -> gas price: 6.2676008543e-08 Gwei
+16: https://near.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+17: https://near.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/ -> Checked network status
+Error converting status: string indices must be integers
+11: 0xc71e77aC6Ea2683871cF477996a89403adeA7545 -> block number: 19386333
+12: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476 -> balance: 0.0 ETH
+17: https://near.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+12: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476 -> gas price: 6.2676008543e-08 Gwei
+12: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476 -> block number: 19386333
+18: https://near.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/ -> Checked network status
+Error converting status: string indices must be integers
+13: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02 -> balance: 0.0 ETH
+18: https://near.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+13: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02 -> gas price: 6.2676008543e-08 Gwei
+13: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02 -> block number: 19386333
+19: https://near.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/ -> Checked network status
+Error converting status: string indices must be integers
+14: 0xF139e8f9FAf80b8195599E92395A525980b55918 -> balance: 0.0 ETH
+19: https://near.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+14: 0xF139e8f9FAf80b8195599E92395A525980b55918 -> gas price: 6.3321807652e-08 Gwei
+14: 0xF139e8f9FAf80b8195599E92395A525980b55918 -> block number: 19386334
+20: https://near.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/ -> Checked network status
+Error converting status: string indices must be integers
+15: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250 -> balance: 0.0 ETH
+20: https://near.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+15: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250 -> gas price: 6.3321807652e-08 Gwei
+21: https://near.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/ -> Checked network status
+Error converting status: string indices must be integers
+15: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250 -> block number: 19386334
+21: https://near.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+16: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E -> balance: 0.0 ETH
+22: https://near.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/ -> Checked network status
+Error converting status: string indices must be integers
+16: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E -> gas price: 6.3321807652e-08 Gwei
+22: https://near.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+16: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E -> block number: 19386334
+23: https://near.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/ -> Checked network status
+Error converting status: string indices must be integers
+23: https://near.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+17: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88 -> balance: 0.0 ETH
+24: https://near.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/ -> Checked network status
+Error converting status: string indices must be integers
+17: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88 -> gas price: 6.3321807652e-08 Gwei
+17: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88 -> block number: 19386334
+24: https://near.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+18: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0 -> balance: 0.0 ETH
+25: https://near.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/ -> Checked network status
+Error converting status: string indices must be integers
+18: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0 -> gas price: 6.3321807652e-08 Gwei
+25: https://near.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+26: https://near.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/ -> Checked network status
+Error converting status: string indices must be integers
+18: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0 -> block number: 19386334
+26: https://near.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+19: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146 -> balance: 0.0 ETH
+27: https://near.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/ -> Checked network status
+Error converting status: string indices must be integers
+19: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146 -> gas price: 6.3321807652e-08 Gwei
+27: https://near.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+19: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146 -> block number: 19386334
+28: https://near.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/ -> Checked network status
+Error converting status: string indices must be integers
+20: 0x71179055b91C9825DF96A57047ad2Bb890792572 -> balance: 0.0 ETH
+28: https://near.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+20: 0x71179055b91C9825DF96A57047ad2Bb890792572 -> gas price: 6.3321807652e-08 Gwei
+29: https://near.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/ -> Checked network status
+Error converting status: string indices must be integers
+20: 0x71179055b91C9825DF96A57047ad2Bb890792572 -> block number: 19386334
+21: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B -> balance: 0.0 ETH
+29: https://near.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+21: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B -> gas price: 6.3321807652e-08 Gwei
+21: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B -> block number: 19386334
+22: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47 -> balance: 0.0 ETH
+22: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47 -> gas price: 6.3321807652e-08 Gwei
+22: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47 -> block number: 19386334
+23: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3 -> balance: 0.0 ETH
+23: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3 -> gas price: 6.3321807652e-08 Gwei
+23: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3 -> block number: 19386334
+24: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE -> balance: 0.0 ETH
+24: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE -> gas price: 6.3321807652e-08 Gwei
+24: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE -> block number: 19386334
+25: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad -> balance: 0.0 ETH
+25: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad -> gas price: 6.3321807652e-08 Gwei
+25: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad -> block number: 19386334
+26: 0xa8FE676618a51219c8732899b4b94bD491526B77 -> balance: 0.0 ETH
+26: 0xa8FE676618a51219c8732899b4b94bD491526B77 -> gas price: 6.3321807652e-08 Gwei
+26: 0xa8FE676618a51219c8732899b4b94bD491526B77 -> block number: 19386334
+27: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455 -> balance: 0.0 ETH
+27: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455 -> gas price: 6.3321807652e-08 Gwei
+27: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455 -> block number: 19386334
+28: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE -> balance: 0.0 ETH
+28: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE -> gas price: 6.3321807652e-08 Gwei
+28: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE -> block number: 19386334
+29: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3 -> balance: 0.0 ETH
+29: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3 -> gas price: 6.3321807652e-08 Gwei
+29: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3 -> block number: 19386334
+Loop finished. Success count:  87
+
+Starting loop:  1
+ERROR. Error fetching data: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9. 1: https://eth1.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/
+ERROR. Error fetching data: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9. 1: https://eth1.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/
+ERROR. Error fetching data: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9. 1: https://eth1.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/
+ERROR. Error fetching data: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9. 2: https://eth1.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/
+ERROR. Error fetching data: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9. 2: https://eth1.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/
+ERROR. Error fetching data: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9. 2: https://eth1.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/
+ERROR. Error fetching data: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645. 3: https://eth1.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/
+ERROR. Error fetching data: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645. 3: https://eth1.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/
+ERROR. Error fetching data: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645. 3: https://eth1.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/
+ERROR. Error fetching data: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad. 4: https://eth1.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/
+ERROR. Error fetching data: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad. 4: https://eth1.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/
+ERROR. Error fetching data: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad. 4: https://eth1.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/
+ERROR. Error fetching data: 0xC7b6C532560798a0c508778D6530709C91a1B9E8. 5: https://eth1.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/
+ERROR. Error fetching data: 0xC7b6C532560798a0c508778D6530709C91a1B9E8. 5: https://eth1.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/
+ERROR. Error fetching data: 0xC7b6C532560798a0c508778D6530709C91a1B9E8. 5: https://eth1.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/
+ERROR. Error fetching data: 0x9D686b4420a9357662171393647ed34474F31224. 6: https://eth1.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/
+ERROR. Error fetching data: 0x9D686b4420a9357662171393647ed34474F31224. 6: https://eth1.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/
+ERROR. Error fetching data: 0x9D686b4420a9357662171393647ed34474F31224. 6: https://eth1.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/
+ERROR. Error fetching data: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA. 7: https://eth1.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/
+ERROR. Error fetching data: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA. 7: https://eth1.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/
+ERROR. Error fetching data: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA. 7: https://eth1.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/
+ERROR. Error fetching data: 0x4Ea19EB6797179aCba0E662866e4829F437F601E. 8: https://eth1.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/
+ERROR. Error fetching data: 0x4Ea19EB6797179aCba0E662866e4829F437F601E. 8: https://eth1.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/
+ERROR. Error fetching data: 0x4Ea19EB6797179aCba0E662866e4829F437F601E. 8: https://eth1.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/
+ERROR. Error fetching data: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E. 9: https://eth1.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/
+ERROR. Error fetching data: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E. 9: https://eth1.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/
+ERROR. Error fetching data: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E. 9: https://eth1.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/
+ERROR. Error fetching data: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73. 10: https://eth1.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/
+ERROR. Error fetching data: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73. 10: https://eth1.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/
+ERROR. Error fetching data: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73. 10: https://eth1.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/
+ERROR. Error fetching data: 0xc71e77aC6Ea2683871cF477996a89403adeA7545. 11: https://eth1.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/
+ERROR. Error fetching data: 0xc71e77aC6Ea2683871cF477996a89403adeA7545. 11: https://eth1.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/
+ERROR. Error fetching data: 0xc71e77aC6Ea2683871cF477996a89403adeA7545. 11: https://eth1.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/
+ERROR. Error fetching data: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476. 12: https://eth1.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/
+ERROR. Error fetching data: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476. 12: https://eth1.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/
+ERROR. Error fetching data: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476. 12: https://eth1.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/
+ERROR. Error fetching data: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02. 13: https://eth1.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/
+ERROR. Error fetching data: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02. 13: https://eth1.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/
+ERROR. Error fetching data: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02. 13: https://eth1.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/
+ERROR. Error fetching data: 0xF139e8f9FAf80b8195599E92395A525980b55918. 14: https://eth1.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/
+ERROR. Error fetching data: 0xF139e8f9FAf80b8195599E92395A525980b55918. 14: https://eth1.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/
+ERROR. Error fetching data: 0xF139e8f9FAf80b8195599E92395A525980b55918. 14: https://eth1.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/
+ERROR. Error fetching data: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250. 15: https://eth1.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/
+ERROR. Error fetching data: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250. 15: https://eth1.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/
+ERROR. Error fetching data: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250. 15: https://eth1.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/
+ERROR. Error fetching data: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E. 16: https://eth1.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/
+ERROR. Error fetching data: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E. 16: https://eth1.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/
+ERROR. Error fetching data: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E. 16: https://eth1.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/
+ERROR. Error fetching data: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88. 17: https://eth1.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/
+ERROR. Error fetching data: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88. 17: https://eth1.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/
+ERROR. Error fetching data: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88. 17: https://eth1.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/
+ERROR. Error fetching data: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0. 18: https://eth1.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/
+ERROR. Error fetching data: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0. 18: https://eth1.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/
+ERROR. Error fetching data: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0. 18: https://eth1.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/
+ERROR. Error fetching data: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146. 19: https://eth1.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/
+ERROR. Error fetching data: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146. 19: https://eth1.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/
+ERROR. Error fetching data: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146. 19: https://eth1.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/
+ERROR. Error fetching data: 0x71179055b91C9825DF96A57047ad2Bb890792572. 20: https://eth1.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/
+ERROR. Error fetching data: 0x71179055b91C9825DF96A57047ad2Bb890792572. 20: https://eth1.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/
+ERROR. Error fetching data: 0x71179055b91C9825DF96A57047ad2Bb890792572. 20: https://eth1.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/
+ERROR. Error fetching data: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B. 21: https://eth1.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/
+ERROR. Error fetching data: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B. 21: https://eth1.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/
+ERROR. Error fetching data: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B. 21: https://eth1.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/
+ERROR. Error fetching data: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47. 22: https://eth1.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/
+ERROR. Error fetching data: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47. 22: https://eth1.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/
+ERROR. Error fetching data: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47. 22: https://eth1.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/
+ERROR. Error fetching data: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3. 23: https://eth1.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/
+ERROR. Error fetching data: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3. 23: https://eth1.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/
+ERROR. Error fetching data: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3. 23: https://eth1.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/
+ERROR. Error fetching data: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE. 24: https://eth1.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/
+ERROR. Error fetching data: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE. 24: https://eth1.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/
+ERROR. Error fetching data: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE. 24: https://eth1.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/
+ERROR. Error fetching data: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad. 25: https://eth1.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/
+ERROR. Error fetching data: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad. 25: https://eth1.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/
+ERROR. Error fetching data: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad. 25: https://eth1.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/
+ERROR. Error fetching data: 0xa8FE676618a51219c8732899b4b94bD491526B77. 26: https://eth1.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/
+ERROR. Error fetching data: 0xa8FE676618a51219c8732899b4b94bD491526B77. 26: https://eth1.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/
+ERROR. Error fetching data: 0xa8FE676618a51219c8732899b4b94bD491526B77. 26: https://eth1.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/
+ERROR. Error fetching data: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455. 27: https://eth1.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/
+ERROR. Error fetching data: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455. 27: https://eth1.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/
+ERROR. Error fetching data: 0x2FB119cFCfb6dC01b1b3335a4eAD235eb1482455. 27: https://eth1.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/
+ERROR. Error fetching data: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE. 28: https://eth1.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/
+ERROR. Error fetching data: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE. 28: https://eth1.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/
+ERROR. Error fetching data: 0x3760B484C3B128ff4bF1053BAdd6143D43aF99AE. 28: https://eth1.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/
+ERROR. Error fetching data: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3. 29: https://eth1.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/
+ERROR. Error fetching data: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3. 29: https://eth1.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/
+ERROR. Error fetching data: 0x433C1eE8Af46b07DF2d8Bfca31561039fC7EcDA3. 29: https://eth1.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/
+1: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9 -> balance: 0.0 ETH
+1: https://near.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/ -> Checked network status
+Error converting status: string indices must be integers
+1: https://near.lava.build/lava-referer-056024d9-9a26-46ec-88ee-eb5b9a977901/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+1: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9 -> gas price: 6.3321807652e-08 Gwei
+2: https://near.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/ -> Checked network status
+Error converting status: string indices must be integers
+1: 0xD0a3e994a7Aa276cDF1a3E05FAeaD8A66384CAC9 -> block number: 19386334
+2: https://near.lava.build/lava-referer-170d92a6-347e-43d6-94f7-d3d3a40a16a9/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+2: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9 -> balance: 0.0 ETH
+3: https://near.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/ -> Checked network status
+Error converting status: string indices must be integers
+2: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9 -> gas price: 6.2069939983e-08 Gwei
+3: https://near.lava.build/lava-referer-fe73de55-a93a-4fba-b4fa-1737880074a2/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+2: 0x6CF75674015e9fa91EE9718537152E5E8bcBFdC9 -> block number: 19386335
+3: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645 -> balance: 0.0 ETH
+4: https://near.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/ -> Checked network status
+Error converting status: string indices must be integers
+3: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645 -> gas price: 6.2069939983e-08 Gwei
+4: https://near.lava.build/lava-referer-4451fd8a-e388-4ee9-aab2-de77ffb0c149/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+5: https://near.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/ -> Checked network status
+Error converting status: string indices must be integers
+3: 0xd93243a04afa57AcADDcA17e5E9147aD8795A645 -> block number: 19386335
+5: https://near.lava.build/lava-referer-df0499a7-55ed-4c39-9fa1-b276f469a3d4/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+6: https://near.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/ -> Checked network status
+Error converting status: string indices must be integers
+4: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad -> balance: 0.0 ETH
+4: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad -> gas price: 6.2069939983e-08 Gwei
+6: https://near.lava.build/lava-referer-c905b5c2-deaf-4c8d-bb0c-57ed0ea973ec/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+4: 0x0200CeE5c21388494bD21Ddf81F79f21690ce1ad -> block number: 19386335
+7: https://near.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/ -> Checked network status
+Error converting status: string indices must be integers
+5: 0xC7b6C532560798a0c508778D6530709C91a1B9E8 -> balance: 0.0 ETH
+7: https://near.lava.build/lava-referer-9c576c63-3ff3-4dc3-96c5-b0d123a5bb31/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+5: 0xC7b6C532560798a0c508778D6530709C91a1B9E8 -> gas price: 6.2069939983e-08 Gwei
+8: https://near.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/ -> Checked network status
+Error converting status: string indices must be integers
+5: 0xC7b6C532560798a0c508778D6530709C91a1B9E8 -> block number: 19386335
+8: https://near.lava.build/lava-referer-63b7df74-0070-46a2-8c26-d14155403135/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+6: 0x9D686b4420a9357662171393647ed34474F31224 -> balance: 0.0 ETH
+9: https://near.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/ -> Checked network status
+Error converting status: string indices must be integers
+6: 0x9D686b4420a9357662171393647ed34474F31224 -> gas price: 6.2069939983e-08 Gwei
+9: https://near.lava.build/lava-referer-70d68a87-b9bc-4c01-b844-27b8de26d4ac/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+6: 0x9D686b4420a9357662171393647ed34474F31224 -> block number: 19386335
+10: https://near.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/ -> Checked network status
+Error converting status: string indices must be integers
+7: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA -> balance: 0.0 ETH
+10: https://near.lava.build/lava-referer-97e5d8ea-2e98-49f5-b34f-d21fe438de61/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+7: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA -> gas price: 6.2069939983e-08 Gwei
+11: https://near.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/ -> Checked network status
+Error converting status: string indices must be integers
+7: 0xcB38dcBcb608B9279FD515e919A7E9fD2FF8D3DA -> block number: 19386335
+11: https://near.lava.build/lava-referer-8b2aaab2-5692-44b5-a308-e4cae99ed98e/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+8: 0x4Ea19EB6797179aCba0E662866e4829F437F601E -> balance: 0.0 ETH
+12: https://near.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/ -> Checked network status
+Error converting status: string indices must be integers
+8: 0x4Ea19EB6797179aCba0E662866e4829F437F601E -> gas price: 6.2069939983e-08 Gwei
+12: https://near.lava.build/lava-referer-5ba816dd-70e2-482a-8e0b-0e2cd128ec25/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+8: 0x4Ea19EB6797179aCba0E662866e4829F437F601E -> block number: 19386335
+13: https://near.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/ -> Checked network status
+Error converting status: string indices must be integers
+9: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E -> balance: 0.0 ETH
+13: https://near.lava.build/lava-referer-fee01261-8940-4733-b94f-6b49fd705193/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+9: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E -> gas price: 6.2069939983e-08 Gwei
+14: https://near.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/ -> Checked network status
+Error converting status: string indices must be integers
+9: 0xAE65bFAE3fdc20D2352654d2d6216373ca655c9E -> block number: 19386335
+14: https://near.lava.build/lava-referer-db727eb6-f0bb-4241-a0bf-512e2a09cd80/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+10: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73 -> balance: 0.0 ETH
+15: https://near.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/ -> Checked network status
+Error converting status: string indices must be integers
+15: https://near.lava.build/lava-referer-18939045-01ca-49f5-a643-d26c769640da/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+10: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73 -> gas price: 6.2069939983e-08 Gwei
+10: 0x4032C3Dc625DCE057fEC6Fe5f9d2074a335b2B73 -> block number: 19386335
+16: https://near.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/ -> Checked network status
+Error converting status: string indices must be integers
+16: https://near.lava.build/lava-referer-7a07351b-31dd-4c63-bea4-6a532e768335/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+11: 0xc71e77aC6Ea2683871cF477996a89403adeA7545 -> balance: 0.0 ETH
+11: 0xc71e77aC6Ea2683871cF477996a89403adeA7545 -> gas price: 6.2069939983e-08 Gwei
+17: https://near.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/ -> Checked network status
+Error converting status: string indices must be integers
+11: 0xc71e77aC6Ea2683871cF477996a89403adeA7545 -> block number: 19386335
+17: https://near.lava.build/lava-referer-8b0a9cc6-0afc-44eb-ab3f-002991463c0c/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+12: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476 -> balance: 0.0 ETH
+18: https://near.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/ -> Checked network status
+Error converting status: string indices must be integers
+18: https://near.lava.build/lava-referer-b57dbadb-1908-47e5-9094-e97e6fea3db7/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+12: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476 -> gas price: 6.2069939983e-08 Gwei
+19: https://near.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/ -> Checked network status
+Error converting status: string indices must be integers
+12: 0xe5E5920acF22027A4b2969E4F005E7f44A9a6476 -> block number: 19386335
+19: https://near.lava.build/lava-referer-893e610a-7e8e-4938-b8dc-7a3a3d438461/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+13: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02 -> balance: 0.0 ETH
+20: https://near.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/ -> Checked network status
+Error converting status: string indices must be integers
+13: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02 -> gas price: 6.2069939983e-08 Gwei
+20: https://near.lava.build/lava-referer-05868435-20bc-42ff-bed9-e491ed41213f/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+13: 0x8A2ae6f270C9c3620C006b98cb96a23F8A10fF02 -> block number: 19386335
+21: https://near.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/ -> Checked network status
+Error converting status: string indices must be integers
+14: 0xF139e8f9FAf80b8195599E92395A525980b55918 -> balance: 0.0 ETH
+21: https://near.lava.build/lava-referer-2a8fb04c-9880-45f3-a137-aabee6f0b497/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+22: https://near.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/ -> Checked network status
+Error converting status: string indices must be integers
+14: 0xF139e8f9FAf80b8195599E92395A525980b55918 -> gas price: 6.2069939983e-08 Gwei
+22: https://near.lava.build/lava-referer-77b1de79-ab42-4619-a1e7-84af7c76f16f/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+14: 0xF139e8f9FAf80b8195599E92395A525980b55918 -> block number: 19386335
+23: https://near.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/ -> Checked network status
+Error converting status: string indices must be integers
+15: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250 -> balance: 0.0 ETH
+23: https://near.lava.build/lava-referer-6c739cef-f4c4-4665-bb05-788e2ef1b56a/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+15: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250 -> gas price: 6.2069939983e-08 Gwei
+15: 0xe9f7c37Df1FBeC8ACe6aEC713779D62dbDa55250 -> block number: 19386335
+16: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E -> balance: 0.0 ETH
+24: https://near.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/ -> Checked network status
+Error converting status: string indices must be integers
+16: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E -> gas price: 6.2069939983e-08 Gwei
+24: https://near.lava.build/lava-referer-e40819ee-e47a-45d9-892c-02bdee01e677/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+16: 0x6d54E72E45DC7FFfD959e67ba0C2c2cfb539Ed7E -> block number: 19386335
+25: https://near.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/ -> Checked network status
+Error converting status: string indices must be integers
+25: https://near.lava.build/lava-referer-34aa77cf-415f-48db-89c5-579d668c6d08/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+17: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88 -> balance: 0.0 ETH
+26: https://near.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/ -> Checked network status
+Error converting status: string indices must be integers
+17: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88 -> gas price: 6.2069939983e-08 Gwei
+26: https://near.lava.build/lava-referer-b0bcef62-4186-4654-9e8a-4cb7a198ecc0/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+17: 0x6d773A49677bf5eA637438f8D6B816Ab2ae14a88 -> block number: 19386335
+27: https://near.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/ -> Checked network status
+Error converting status: string indices must be integers
+27: https://near.lava.build/lava-referer-94acdf69-1b0a-4e35-946c-19cf85ad42fc/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+18: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0 -> balance: 0.0 ETH
+18: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0 -> gas price: 6.2069939983e-08 Gwei
+28: https://near.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/ -> Checked network status
+Error converting status: string indices must be integers
+28: https://near.lava.build/lava-referer-0767b516-642c-456c-92a4-91a030fb09a7/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+18: 0xeea9Ff8fEF8d7380d3673bf37C50B561144E1BC0 -> block number: 19386336
+29: https://near.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/ -> Checked network status
+Error converting status: string indices must be integers
+29: https://near.lava.build/lava-referer-1c1c1bdb-accc-4e73-b5b5-23bc40003424/ -> balance: 0 ETH
+Error converting balance: string indices must be integers
+19: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146 -> balance: 0.0 ETH
+19: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146 -> gas price: 5.9313847324e-08 Gwei
+19: 0xb9cf4fA1709540Ce684839Cd376EBaE99A770146 -> block number: 19386336
+20: 0x71179055b91C9825DF96A57047ad2Bb890792572 -> balance: 0.0 ETH
+20: 0x71179055b91C9825DF96A57047ad2Bb890792572 -> gas price: 5.9313847324e-08 Gwei
+20: 0x71179055b91C9825DF96A57047ad2Bb890792572 -> block number: 19386336
+21: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B -> balance: 0.0 ETH
+21: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B -> gas price: 5.9313847324e-08 Gwei
+21: 0x2DddFeA80C61C22405c77f620A89492ef7F5695B -> block number: 19386336
+22: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47 -> balance: 0.0 ETH
+22: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47 -> gas price: 5.9313847324e-08 Gwei
+22: 0x3bfC5fC8cABDc88c82A59D095DD9E9FDe73DeA47 -> block number: 19386336
+23: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3 -> balance: 0.0 ETH
+23: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3 -> gas price: 5.9313847324e-08 Gwei
+23: 0xE13d6Dacb32eC5d7f101389A10C2938880C639E3 -> block number: 19386336
+24: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE -> balance: 0.0 ETH
+24: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE -> gas price: 5.9313847324e-08 Gwei
+24: 0xe577fF274300125e763f1Ab4d156B26eCAD9cFAE -> block number: 19386336
+25: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad -> balance: 0.0 ETH
+25: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad -> gas price: 5.9313847324e-08 Gwei
+25: 0xe251126B5f9c38917E1B897E4D98221C38ed08Ad -> block number: 19386336
+26: 0xa8FE676618a51219c8732899b4b94bD491526B77 -> balance: 0.0 ETH
+26: 0xa8FE676618a51219c8732899b4b94bD491526B77 -> gas price: 5.9313847324e-08 Gwei

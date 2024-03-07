@@ -1,0 +1,2 @@
+La cagaste. Vete al grupo y pega este mensaje [Errno 2] No such file or directory: 'C:\\Users\\jaime\\MoneyMaker\\Accounts.json'
+None
