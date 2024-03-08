@@ -1,10 +1,10 @@
 # MoneyMaker
 
-install 'pip'
+install 'pip' -- search install git and download. click through all settings without changing anything
 
-install 'PyCharm Community eddition'
+install 'PyCharm Community eddition' -- https://www.jetbrains.com/pycharm/download/?section=windows (scroll down)
 
-install 'Python' 3.9 or 'Python 3.10'
+install 'Python 3.10.0' -- Search for: Python 3.10.0
 
 
 
