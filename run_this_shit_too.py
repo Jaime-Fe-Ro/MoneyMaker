@@ -53,58 +53,42 @@ def get_wallets_and_endpoints(selected_account_dictionary):
     return wallets_and_endpoints
 
 
-async def eth_check_wallet_balance(session, wallet_address, rpc_endpoint, success_counter, wallet_index):
+async def near_check_wallet_balance(session, rpc_endpoint, success_counter, wallet_address, wallet_index):
     payload = {
         "jsonrpc": "2.0",
-        "method": "eth_getBalance",
-        "params": [wallet_address, "latest"],
+        "method": "query",
+        "params": {
+            "request_type": "view_account",
+            "finality": "final",
+            "account_id": "test.near"
+        },
         "id": 1}
     result = await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
     if result is not None and 'result' in result:
         try:
-            balance = int(str(result['result']), 16) / 1e18
-            print(f"{wallet_index + 1}: {wallet_address} -> balance: {balance} ETH")
+            print(f"{wallet_index + 1}: {wallet_address} -> balance checked")
             success_counter[wallet_address] = success_counter.get(wallet_address, 0) + 1
         except Exception as e:
-            print(f" eth_check_wallet_balance Error converting balance: {e}")
+            print(f"Error checking balance: {e}")
     else:
-        await eth_check_wallet_balance(session, wallet_address, rpc_endpoint, success_counter, wallet_index)
+        print(f"Error checking balance: {wallet_index + 1}: {wallet_address}")
 
 
-async def eth_check_gas_price(session, wallet_address, rpc_endpoint, success_counter, wallet_index):
+async def near_check_network_status(session, rpc_endpoint, success_counter, wallet_address, wallet_index):
     payload = {
         "jsonrpc": "2.0",
-        "method": "eth_gasPrice",
-        "params": [],
+        "method": "status",
+        "params": {},
         "id": 2}
     result = await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
     if result is not None and 'result' in result:
         try:
-            gas_price = int(result['result'], 16) / 1e9  # Adjusted for Gwei
-            print(f"{wallet_index + 1}: {wallet_address} -> gas price: {gas_price} Gwei")
+            print(f"{wallet_index + 1}: {wallet_address} -> Checked network status")
             success_counter[wallet_address] = success_counter.get(wallet_address, 0) + 1
         except Exception as e:
-            print(f"Error converting gas price: {e}")
+            print(f"Error checking network status: {e}")
     else:
-        await eth_check_gas_price(session, wallet_address, rpc_endpoint, success_counter, wallet_index)
-
-
-async def eth_check_block_number(session, wallet_address, rpc_endpoint, success_counter, wallet_index):
-    payload = {
-        "jsonrpc": "2.0",
-        "method": "eth_blockNumber",
-        "params": [],
-        "id": 3}
-    result = await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
-    if result is not None and 'result' in result:
-        try:
-            block_number = int(result['result'], 16)
-            print(f"{wallet_index + 1}: {wallet_address} -> block number: {block_number}")
-            success_counter[wallet_address] = success_counter.get(wallet_address, 0) + 1
-        except Exception as e:
-            print(f"Error converting block number: {e}")
-    else:
-        await eth_check_block_number(session, wallet_address, rpc_endpoint, success_counter, wallet_index)
+        print(f"Error checking network status: {wallet_index + 1}: {wallet_address}")
 
 
 async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index):
@@ -127,24 +111,22 @@ async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_inde
         return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
 
 
-async def main(eth):
+async def main(near):
     connector = TCPConnector(limit=10, limit_per_host=1)
     loop_counter = 0
-    accounts_looped = len(eth)
+    accounts_looped = len(near)
     success_counter = {}
     start_time = datetime.now()
-    print(f"\nStarting ETH looper at: {start_time}")
+    print(f"\nStarting NEAR looper at: {start_time}")
     async with ClientSession(connector=connector) as session:
         while True:
             print("\nStarting loop ", loop_counter)
             tasks = []
-            for wallet_index, (wallet_address, rpc_endpoint) in enumerate(eth.items()):
-                tasks.append(eth_check_wallet_balance(
-                    session, wallet_address, rpc_endpoint, success_counter, wallet_index))
-                tasks.append(eth_check_gas_price(
-                    session, wallet_address, rpc_endpoint, success_counter, wallet_index))
-                tasks.append(eth_check_block_number(
-                    session, wallet_address, rpc_endpoint, success_counter, wallet_index))
+            for wallet_index, (wallet_address, rpc_endpoint) in enumerate(near.items()):
+                tasks.append(near_check_network_status(
+                    session, rpc_endpoint, success_counter, wallet_address, wallet_index))
+                tasks.append(near_check_wallet_balance(
+                    session, rpc_endpoint, success_counter, wallet_address, wallet_index))
             await asyncio.gather(*tasks)
             loop_counter += 1
             time_elapsed = (datetime.now() - start_time).total_seconds()
@@ -160,11 +142,20 @@ async def main(eth):
             print("\n\n-------------------------------------------------------------------\n")
 
 
+def modify_dictionary(dictionary):
+    rpc_prefix = "https://near.lava.build/lava-referer-"
+    for address, info in dictionary.items():
+        rpc_endpoint = info.get('rpc_endpoint')
+        if rpc_endpoint.startswith('https://eth1.lava.build/lava-referer-'):
+            info['rpc_endpoint'] = rpc_endpoint.replace('https://eth1.lava.build/lava-referer-', rpc_prefix)
+    return dictionary
+
+
 def run():
     log_file_path = log_setup()
     sys.stdout = Logger(log_file_path)
-    eth_dict = get_wallets_and_endpoints(get_dictionary('Accounts.json'))
-    asyncio.run(main(eth_dict))
+    near_dictionary = get_wallets_and_endpoints(modify_dictionary(get_dictionary('Accounts.json')))
+    asyncio.run(main(near_dictionary))
 
 
 run()

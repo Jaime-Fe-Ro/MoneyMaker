@@ -10,7 +10,8 @@
     "0x3bb7b1bd6F6F81b510ac4890E7bE580038B1237F": {
         "private_key": "21ed5586fde5e808d2f7ae3a9c002ce9fca4c6a1f07a8522f12e30bf48dfc92d",
         "rpc_endpoint": "https://eth1.lava.build/lava-referer-ec5ab03d-5e2d-4a80-8354-56b6330feee3/"
-    },
+    }
+    ,
     "0x5643451c79aF6AB1f0839Ad7d8adFDeD023Cd36d": {
         "private_key": "38b12b6df9299f75fb256dcd69e2fa4e3d70ce934c9c4397b4d1e37e70cddb6f",
         "rpc_endpoint": "https://eth1.lava.build/lava-referer-932cad18-62d2-45b3-91fa-e7aee254ceaa/"

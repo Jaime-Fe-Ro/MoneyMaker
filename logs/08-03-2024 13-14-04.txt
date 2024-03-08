@@ -1,0 +1,2 @@
+La cagaste. Vete al grupo y pega este mensaje Expecting value: line 1 column 1 (char 0)
+0x4E7f959A6ca3c98E6df8C61c7dD4f8B3e27d879E
