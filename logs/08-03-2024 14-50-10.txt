@@ -1,0 +1,44 @@
+
+Starting NEAR looper at: 2024-03-08 14:50:10.825754
+
+Starting loop  0
+1: 0x4E7f959A6ca3c98E6df8C61c7dD4f8B3e27d879E -> Checked network status
+1: 0x4E7f959A6ca3c98E6df8C61c7dD4f8B3e27d879E -> balance checked
+2: 0x2a37B3D664b90bAdDcF58e6CE062e13Ed0A1c7b5 -> Checked network status
+2: 0x2a37B3D664b90bAdDcF58e6CE062e13Ed0A1c7b5 -> balance checked
+3: 0x3bb7b1bd6F6F81b510ac4890E7bE580038B1237F -> Checked network status
+3: 0x3bb7b1bd6F6F81b510ac4890E7bE580038B1237F -> balance checked
+4: 0x5643451c79aF6AB1f0839Ad7d8adFDeD023Cd36d -> Checked network status
+4: 0x5643451c79aF6AB1f0839Ad7d8adFDeD023Cd36d -> balance checked
+5: 0x48f65DbCB0b2E35460D613a32ED30D9f305ea3E8 -> Checked network status
+5: 0x48f65DbCB0b2E35460D613a32ED30D9f305ea3E8 -> balance checked
+6: 0x904b0A38d4f5C13CBEcff9A15D6d095832F803C3 -> Checked network status
+6: 0x904b0A38d4f5C13CBEcff9A15D6d095832F803C3 -> balance checked
+7: 0x2E08347Ec112A7a5A502bA3D25363B1FBe15aAdb -> Checked network status
+7: 0x2E08347Ec112A7a5A502bA3D25363B1FBe15aAdb -> balance checked
+8: 0xfEaA52b87101f0E2d4D5400cDefEe0795528275E -> Checked network status
+8: 0xfEaA52b87101f0E2d4D5400cDefEe0795528275E -> balance checked
+9: 0x7267dDCff687f9673392fAC40cfec22a64E375a7 -> Checked network status
+9: 0x7267dDCff687f9673392fAC40cfec22a64E375a7 -> balance checked
+10: 0x721f182fDF78903e9f8129E8983c85B5b3b0136a -> Checked network status
+10: 0x721f182fDF78903e9f8129E8983c85B5b3b0136a -> balance checked
+11: 0x2c178151A57c457b78C63E2e9C9f2A28F49a3eC6 -> Checked network status
+11: 0x2c178151A57c457b78C63E2e9C9f2A28F49a3eC6 -> balance checked
+12: 0x27F42196B985F7caf7b3a13Ccb961caEca9c09A2 -> Checked network status
+12: 0x27F42196B985F7caf7b3a13Ccb961caEca9c09A2 -> balance checked
+13: 0x33f18651D573DA4c727b656EEE5c5a78133b895b -> Checked network status
+13: 0x33f18651D573DA4c727b656EEE5c5a78133b895b -> balance checked
+14: 0x36FBC73BA25275f805444b7821364f0B321872Ef -> Checked network status
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 

@@ -1,6 +1,3 @@
-asyncio
-datetime
-aiohttp
-json
-os
-sys
+asyncio == 3.4.3
+datetime == 5.4
+aiohttp == 3.9.3

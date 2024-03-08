@@ -1,0 +1,111 @@
+
+Starting NEAR looper at: 2024-03-08 14:50:18.108249
+
+Starting loop  0
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+5: 0x48f65DbCB0b2E35460D613a32ED30D9f305ea3E8 -> Checked network status
+5: 0x48f65DbCB0b2E35460D613a32ED30D9f305ea3E8 -> balance checked
+6: 0x904b0A38d4f5C13CBEcff9A15D6d095832F803C3 -> Checked network status
+6: 0x904b0A38d4f5C13CBEcff9A15D6d095832F803C3 -> balance checked
+7: 0x2E08347Ec112A7a5A502bA3D25363B1FBe15aAdb -> Checked network status
+7: 0x2E08347Ec112A7a5A502bA3D25363B1FBe15aAdb -> balance checked
+8: 0xfEaA52b87101f0E2d4D5400cDefEe0795528275E -> Checked network status
+8: 0xfEaA52b87101f0E2d4D5400cDefEe0795528275E -> balance checked
+9: 0x7267dDCff687f9673392fAC40cfec22a64E375a7 -> Checked network status
+9: 0x7267dDCff687f9673392fAC40cfec22a64E375a7 -> balance checked
+10: 0x721f182fDF78903e9f8129E8983c85B5b3b0136a -> Checked network status
+10: 0x721f182fDF78903e9f8129E8983c85B5b3b0136a -> balance checked
+11: 0x2c178151A57c457b78C63E2e9C9f2A28F49a3eC6 -> Checked network status
+11: 0x2c178151A57c457b78C63E2e9C9f2A28F49a3eC6 -> balance checked
+12: 0x27F42196B985F7caf7b3a13Ccb961caEca9c09A2 -> Checked network status
+12: 0x27F42196B985F7caf7b3a13Ccb961caEca9c09A2 -> balance checked
+13: 0x33f18651D573DA4c727b656EEE5c5a78133b895b -> Checked network status
+13: 0x33f18651D573DA4c727b656EEE5c5a78133b895b -> balance checked
+14: 0x36FBC73BA25275f805444b7821364f0B321872Ef -> Checked network status
+14: 0x36FBC73BA25275f805444b7821364f0B321872Ef -> balance checked
+15: 0xd0Fd5EA8EAc8fF3004F57409d98A4dC2B83ce05c -> Checked network status
+15: 0xd0Fd5EA8EAc8fF3004F57409d98A4dC2B83ce05c -> balance checked
+16: 0xd505055dd79774075D8998bD24c21ebd809f8dE5 -> Checked network status
+16: 0xd505055dd79774075D8998bD24c21ebd809f8dE5 -> balance checked
+17: 0x959d6c586a375b4a49c36160b25B35e2D4e81764 -> Checked network status
+17: 0x959d6c586a375b4a49c36160b25B35e2D4e81764 -> balance checked
+18: 0xF310a8f342C667ff34A05deFfEbc7288eE47AdD2 -> Checked network status
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+32: 0x4C6a6ae454eFE86a30255553B7e07f689E097DD3 -> Checked network status
+32: 0x4C6a6ae454eFE86a30255553B7e07f689E097DD3 -> balance checked
+33: 0x6FBB7dcE4B036c0771D19796c65C5F00597aDd13 -> Checked network status
+33: 0x6FBB7dcE4B036c0771D19796c65C5F00597aDd13 -> balance checked
+34: 0xdA3C44d764AD2F5414A4c8A73AF11f40a07e39E8 -> Checked network status
+34: 0xdA3C44d764AD2F5414A4c8A73AF11f40a07e39E8 -> balance checked
+35: 0x55ebAa0e05E780F2afF27871952F8A1f51581A14 -> Checked network status
+35: 0x55ebAa0e05E780F2afF27871952F8A1f51581A14 -> balance checked
+36: 0xc12a229c33D16AC963bA6D6fC3D4Aa38C820441d -> Checked network status
+36: 0xc12a229c33D16AC963bA6D6fC3D4Aa38C820441d -> balance checked
+37: 0xa6c131d47A200eB8a29907802d318141451D4688 -> Checked network status
+37: 0xa6c131d47A200eB8a29907802d318141451D4688 -> balance checked
+38: 0x968605299705a06649C0F6D5545fcA3e690dF0B0 -> Checked network status
+38: 0x968605299705a06649C0F6D5545fcA3e690dF0B0 -> balance checked
+39: 0x17a9E12d772F36F26Be0f648f0b82642e0919500 -> Checked network status
+39: 0x17a9E12d772F36F26Be0f648f0b82642e0919500 -> balance checked
+40: 0xaa85e8208C3401a1DaD456355D2ec09c926Cda8C -> Checked network status
+40: 0xaa85e8208C3401a1DaD456355D2ec09c926Cda8C -> balance checked
+41: 0xc5d2C458484d61490331ac68388D494CA3FFeb67 -> Checked network status
+41: 0xc5d2C458484d61490331ac68388D494CA3FFeb67 -> balance checked
+42: 0x89f2a070A6008A57de4B84c3f650d8A1f5d92560 -> Checked network status
+42: 0x89f2a070A6008A57de4B84c3f650d8A1f5d92560 -> balance checked
+43: 0x9e702Bb106761b8D4270797950C630EB0e9d4962 -> Checked network status
+43: 0x9e702Bb106761b8D4270797950C630EB0e9d4962 -> balance checked
+44: 0xC016244eC3f1c776Db64Dc63Ed89164E4411A6Be -> Checked network status
+44: 0xC016244eC3f1c776Db64Dc63Ed89164E4411A6Be -> balance checked
+45: 0x6E3bCa9B681c9cB39092dE383eBD60c83d376950 -> Checked network status
+45: 0x6E3bCa9B681c9cB39092dE383eBD60c83d376950 -> balance checked
+46: 0x7d74215bC9eB0A5F517817328652360455a630F3 -> Checked network status
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
+ - Too many requests - 
