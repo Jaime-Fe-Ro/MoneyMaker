@@ -3,7 +3,7 @@ import json
 import os
 import sys
 from datetime import datetime
-from aiohttp import TCPConnector, ClientSession, ClientOSError
+import aiohttp
 
 
 def get_time_now():
@@ -172,7 +172,7 @@ async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_inde
                 return None
 
             return await response.json()
-    except ClientOSError:
+    except aiohttp.ClientOSError:
         print(f"ERROR. A network error occurred. Retrying after 1 second. {wallet_index + 1}: {wallet_address}")
         await asyncio.sleep(1)
         return None
@@ -182,12 +182,12 @@ async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_inde
 
 
 async def main(eth, near):
-    connector = TCPConnector(limit=10, limit_per_host=1)
+    connector = aiohttp.TCPConnector(limit=10, limit_per_host=1)
     loop_counter = 0
     success_counter = {}
     start_time = datetime.now()
     print(f"\nStart time: {start_time}")
-    async with ClientSession(connector=connector) as session:
+    async with aiohttp.ClientSession(connector=connector) as session:
         while True:
             print("\nStarting loop: ", loop_counter)
             tasks = []
