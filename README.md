@@ -8,7 +8,7 @@ install 'Python' 3.9 or 'Python 3.10'
 
 
 
-WHEN DONE THE ABOVE:
+## WHEN DONE THE ABOVE:
 
 create venv
 
