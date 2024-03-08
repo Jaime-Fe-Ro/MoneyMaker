@@ -12,7 +12,7 @@ install 'Python 3.10.0' -- Search for: Python 3.10.0
 
 create venv
 
-copy and paste in terminal to install al requirements:
+run:
 ``` bash 
 pip install -r requirements.txt
 ```
