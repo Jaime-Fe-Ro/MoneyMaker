@@ -129,7 +129,6 @@ async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_inde
             if 'application/json' not in content_type:
                 return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
                                         retry_count + 1)
-            print(response.json())
             return await response.json()
 
     except Exception as e:
