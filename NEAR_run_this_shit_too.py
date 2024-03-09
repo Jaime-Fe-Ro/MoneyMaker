@@ -162,8 +162,8 @@ async def main(near):
             rpw = sum(success_counter.values()) / accounts_looped
             rpw = round(rpw, 0)
             print(f"\n - Loop finished - ")
-            print(f"Total Success count: {sum(success_counter.values())}")
-            print(f"Time Elapsed: {round(time_elapsed, 2)}")
+            print(f"Total RPC count: {sum(success_counter.values())}")
+            print(f"Seconds elapsed: {round(time_elapsed, 2)}")
             print(f"Requests per second: {rps}\n")
             print(f"Requests per wallet: {rpw}")
             print("\n\n-------------------------------------------------------------------\n")
