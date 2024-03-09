@@ -68,6 +68,8 @@ async def eth_check_wallet_balance(session, wallet_address, rpc_endpoint, succes
             success_counter[wallet_address] = success_counter.get(wallet_address, 0) + 1
         except Exception as e:
             print(f" eth_check_wallet_balance Error converting balance: {e}")
+    elif result is None:
+        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
     else:
         await eth_check_wallet_balance(session, wallet_address, rpc_endpoint, success_counter, wallet_index)
 
@@ -86,6 +88,8 @@ async def eth_check_gas_price(session, wallet_address, rpc_endpoint, success_cou
             success_counter[wallet_address] = success_counter.get(wallet_address, 0) + 1
         except Exception as e:
             print(f"Error converting gas price: {e}")
+    elif result is None:
+        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
     else:
         await eth_check_gas_price(session, wallet_address, rpc_endpoint, success_counter, wallet_index)
 
@@ -104,46 +108,60 @@ async def eth_check_block_number(session, wallet_address, rpc_endpoint, success_
             success_counter[wallet_address] = success_counter.get(wallet_address, 0) + 1
         except Exception as e:
             print(f"Error converting block number: {e}")
+    elif result is None:
+        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
     else:
         await eth_check_block_number(session, wallet_address, rpc_endpoint, success_counter, wallet_index)
 
 
 async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count=0):
+    short_wait = 0.5
+    long_wait = 120
     try:
         async with session.post(str(rpc_endpoint), json=payload) as response:
             if response.status == 429:
                 print(f" - Too many requests - ")
-                if retry_count >= 800:
-                    print(f" {retry_count} retries failed in a row, slowed down.")
-                    await sleep(10)
+                if retry_count >= 950:
+                    print(f" {retry_count} retries failed for account "
+                          f"{wallet_index}: {wallet_address} in a row, slowed down.")
+                    await sleep(long_wait)
                     return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
                                             retry_count + 1)
-                await sleep(0.5)
+                await sleep(short_wait)
                 return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
 
-            if response.status != 200:
-                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
-                                        retry_count + 1)
+            if response.status == 500:
+                print(f" - Server error - ")
+                if retry_count >= 950:
+                    print(f" {retry_count} retries failed for account "
+                          f"{wallet_index}: {wallet_address} in a row, slowed down.")
+                    await sleep(long_wait)
+                    return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
+                                            retry_count + 1)
+                await sleep(short_wait)
+                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
+
+            if response.status == 200:
+                return await response.json()
+
+            if response.status:
+                print(f"Error fetching data: {response.status}")
+                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
 
             content_type = response.headers.get('content-type', '').lower()
             if 'application/json' not in content_type:
-                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
-                                        retry_count + 1)
+                print(f"Error fetching data: {content_type}")
+                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
+
             return await response.json()
 
     except Exception as e:
-        print(f"Algo va mal, ralentizando el programa 0.5s/request, manda este mensaje al grupo. Error: {e}")
-    if retry_count < 800:
-        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
-    else:
-        print(f" {retry_count} retries failed in a row, slowed down.")
-        await sleep(10)
-        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
-                                retry_count + 1)
+        print(f"Error fetching data: {e}")
+        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count)
 
 
 async def main(eth):
-    connector = TCPConnector(limit=50, limit_per_host=10)
+    connector = TCPConnector(limit=40, limit_per_host=5)
     loop_counter = 1
     accounts_looped = len(eth)
     success_counter = {}
