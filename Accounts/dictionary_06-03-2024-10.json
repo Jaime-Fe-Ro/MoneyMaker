@@ -1,0 +1,110 @@
+{
+    "0xe627e1042F5D07C6C0E9D9fDD21171d2145CdfB0": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-8ba0275c-a6e6-4f14-92bc-37d277c25576/"
+    },
+    "0xc2CE5e6aF60A3c97f0cBC4538090A8687f86B592": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-d65b1c26-a953-4ecc-b1ea-b01c2ea58209/"
+    },
+    "0xf6DDC36a8A5EdBe029b1bde9da3feEC95b3dFf52": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-4bdacd1c-89bb-459c-9bba-5c2cfc321806/"
+    },
+    "0xD139C45f51028FD8d33b0a332166786FFe58419D": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-2d15c399-5b32-4971-8077-48deb801d0cc/"
+    },
+    "0xDe12d479DfFBC97D4Eafb8f4f6aC1B3563924df3": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-f5d0be87-0d26-464b-b056-a2639ff97da8/"
+    },
+    "0xB364e5525d34aD52B1b5cA74b2aCfbe90aebC533": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-f16f117e-402f-4cc7-9d13-b345661e8425/"
+    },
+    "0xa1c279D43B2Facf708489735fef0965aafC2F505": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-65cac883-9126-4ded-8c88-b7697215b649/"
+    },
+    "0x3FcEd33a00b9A92B62462F042FAe0a2eFE2eCA47": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-094a389e-e8ca-4eff-a903-1f53910c3887/"
+    },
+    "0xB6dc66f5C90020AD2E1D6e1CddE01Ca8e2CaE052": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-8d1e1287-49c1-4022-9e5e-c80e113a3844/"
+    },
+    "0x6773BBA851f7641Dd689A5b1496aad6d2d8cb70d": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-74563bd0-1201-41e5-a0c4-531a8788d4cd/"
+    },
+    "0x98786df696ED6e4F428F65d3C068fbe0d439416c": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-c3c3d05b-20c5-467a-8e1b-3e20a84f0e7a/"
+    },
+    "0x7B1a34Bb5cE938cC81D7Df531338FA8E67290A09": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-5dfccf9d-3e2c-4b27-96d0-3a44222cbab7/"
+    },
+    "0xfA800F5395454f26E16745B7DBc0447607802257": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-c7c155cd-6472-4050-974c-d14e4dea558b/"
+    },
+    "0xE31bD1fDc5481f6Dedbc97F75544E0DB2b9Ee612": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-acd36e49-2497-4719-b305-24678fa4808d/"
+    },
+    "0x153b18630A35EAc479727C3E5DEF3A70ef57b3F1": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-2136ce41-39e1-4acc-889b-57404a8edff4/"
+    },
+    "0x1596c8603eF719260bB6DCce1f38A9B4bd0AB425": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-7e036544-4adc-4a13-8229-0577f4ef0239/"
+    },
+    "0xE631c178Df63c59F78e1aA7d378E0Ab4809161A1": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-5c33595b-5e74-4026-b8c7-13d6f2acf29b/"
+    },
+    "0x8F96c54FB62B07347dfEfB449cb08a9c47d4AC4a": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-f4991df2-4998-4b7f-a3e5-241d96a49ea8/"
+    },
+    "0xd40142ADB4fbe1Bd7Ed2d04Cd30Dd62caf55353D": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-f4f9e6be-7e6a-4e93-9097-d3a1ff6a10fd/"
+    },
+    "0x0A343A899D240F9a011938f8B4f8b5A18F7354b0": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-4dc1a4f1-6607-482b-8afd-23952c0a5b9b/"
+    },
+    "0x37e172b8679b55e707c4632Dc791f9d9c2717B62": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-42286d70-771b-4452-b111-eed914113ef2/"
+    },
+    "0x93Fe09A03C9D9a9636f012dB3c5398d3c6984e3d": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-7018be65-1485-497c-ba90-ad483c50c8fe/"
+    },
+    "0xe8e0188B3f94335eD22F17df5DEdE9BBb7a531c0": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-817af028-4265-4387-b613-d9fcba154dfe/"
+    },
+    "0x655d045dc287dC79C2B2111fAa4fE04ca07A455c": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-446eff1d-f0b3-42a0-866e-54fcb9921109/"
+    },
+    "0x480f5E0f29E1BcdBC46877E5cdb71B16d476f20b": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-a4cb25b9-6a93-4c69-8a99-e089120665c9/"
+    },
+    "0x88Aa240654772206AC3baeee422e1BDb99A2Ba21": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-18b038bc-f538-4643-92c1-52b7d2f3a5b1/"
+    },
+    "0xf183396079290757Ce1c57669fFe1A3E6C70246d": {
+        "private_key": "d7aa36d14d42a043718b77a747406fbfe307bbb2483d0f55bbea30ac1ddf5c1b",
+        "rpc_endpoint": "https://eth1.lava.build/lava-referer-eff38984-9a71-41d6-9509-f9379eff2ffd/"
+    }
+}

@@ -2,6 +2,7 @@ import asyncio
 import json
 import os
 import sys
+from asyncio import sleep
 from datetime import datetime
 from aiohttp import TCPConnector, ClientSession
 
@@ -91,29 +92,44 @@ async def near_check_network_status(session, rpc_endpoint, success_counter, wall
         print(f"Error checking network status: {wallet_index + 1}: {wallet_address}")
 
 
-async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index):
+async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count=0):
     try:
         async with session.post(str(rpc_endpoint), json=payload) as response:
             if response.status == 429:
                 print(f" - Too many requests - ")
-                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
+                if retry_count >= 800:
+                    print(f" {retry_count} retries failed in a row, slowed down.")
+                    await sleep(10)
+                    return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
+                                            retry_count + 1)
+                await sleep(0.5)
+                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
 
             if response.status != 200:
-                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
+                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
+                                        retry_count + 1)
 
             content_type = response.headers.get('content-type', '').lower()
             if 'application/json' not in content_type:
-                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
+                return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
+                                        retry_count + 1)
+            print(response.json())
             return await response.json()
 
     except Exception as e:
-        print(f"Algo va mal, manda este mensaje al grupo {e}")
-        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index)
+        print(f"Algo va mal, ralentizando el programa 0.5s/request, manda este mensaje al grupo. Error: {e}")
+    if retry_count < 800:
+        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index, retry_count + 1)
+    else:
+        print(f" {retry_count} retries failed in a row, slowed down.")
+        await sleep(10)
+        return await fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_index,
+                                retry_count + 1)
 
 
 async def main(near):
-    connector = TCPConnector(limit=10, limit_per_host=1)
-    loop_counter = 0
+    connector = TCPConnector(limit=50, limit_per_host=10)
+    loop_counter = 1
     accounts_looped = len(near)
     success_counter = {}
     start_time = datetime.now()
