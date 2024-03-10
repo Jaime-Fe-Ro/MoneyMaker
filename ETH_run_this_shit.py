@@ -161,7 +161,7 @@ async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_inde
 
 
 async def main(eth):
-    connector = TCPConnector(limit=40, limit_per_host=5)
+    connector = TCPConnector(limit=40, limit_per_host=10)
     loop_counter = 1
     accounts_looped = len(eth)
     success_counter = {}
