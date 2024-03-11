@@ -139,7 +139,7 @@ async def fetch_data(session, payload, rpc_endpoint, wallet_address, wallet_inde
 
 
 async def main(near):
-    connector = TCPConnector(limit=40, limit_per_host=10)
+    connector = TCPConnector(limit=50, limit_per_host=12)
     loop_counter = 1
     accounts_looped = len(near)
     success_counter = {}
