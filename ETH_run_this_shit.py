@@ -6,6 +6,7 @@ from asyncio import sleep
 from datetime import datetime
 from aiohttp import TCPConnector, ClientSession
 
+print("test")
 
 def get_time_now():
     return datetime.now().strftime('%d-%m-%Y %H-%M-%S')
