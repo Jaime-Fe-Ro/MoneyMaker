@@ -189,7 +189,7 @@ async def main(eth):
             rpw = round(rpw, 0)
             print(f"\n - Loop finished - ")
             print(f"Total RPC count: {sum(success_counter.values())}")
-            print(f"Seconds elapsed: {time_elapsed_timedelta}")
+            print(f"Time elapsed: {time_elapsed_timedelta}")
             print(f"Requests per second: {rps}\n")
             print(f"Requests per wallet: {rpw}")
             print("\n\n-------------------------------------------------------------------\n")
