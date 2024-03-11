@@ -3,7 +3,7 @@ import json
 import os
 import sys
 from asyncio import sleep
-from datetime import datetime
+from datetime import datetime, timedelta
 from aiohttp import TCPConnector, ClientSession
 
 
@@ -157,13 +157,15 @@ async def main(near):
             await asyncio.gather(*tasks)
             loop_counter += 1
             time_elapsed = (datetime.now() - start_time).total_seconds()
+            time_elapsed_rounded = round(time_elapsed)
+            time_elapsed_timedelta = timedelta(seconds=time_elapsed_rounded)
             rps = sum(success_counter.values()) / time_elapsed if time_elapsed > 0 else 0
             rps = round(rps, 2)
             rpw = sum(success_counter.values()) / accounts_looped
             rpw = round(rpw, 0)
             print(f"\n - Loop finished - ")
             print(f"Total RPC count: {sum(success_counter.values())}")
-            print(f"Seconds elapsed: {round(time_elapsed, 2)}")
+            print(f"Seconds elapsed: {time_elapsed_timedelta}")
             print(f"Requests per second: {rps}\n")
             print(f"Requests per wallet: {rpw}")
             print("\n\n-------------------------------------------------------------------\n")
