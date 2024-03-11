@@ -1,8 +1,8 @@
 # Constants
 NEAR_RPC_calls_per_second = 30
 ETH_RPC_calls_per_second = 30
-hours = 2*23
-accounts = 100
+hours = 10
+accounts = 10
 
 number_of_rpc_call_types = 5
 

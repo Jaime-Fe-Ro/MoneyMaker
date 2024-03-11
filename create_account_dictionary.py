@@ -82,17 +82,17 @@ def main():
     accounts_to_add = 50
     count = 1
     while count <= accounts_to_add:
-        # Wallet address
-        wallet_address = input("(input 'end' to exit) Enter the wallet address: ")
-        stop_running_check(wallet_address, account_dict, file_name)
-        wallet_address = validate_wallet_address(wallet_address, account_dict, file_name)
-        wallet_address = check_if_wallet_address_already_in_account_dictionary(wallet_address, account_dict, file_name)
-
         # RPC endpoint
         rpc_endpoint = input("(input 'end' to exit) Enter the RPC endpoint: ")
         stop_running_check(rpc_endpoint, account_dict, file_name)
         rpc_endpoint = validate_rpc_endpoint(rpc_endpoint, account_dict, file_name)
         rpc_endpoint = check_if_rpc_endpoint_already_in_account_dictionary(rpc_endpoint, account_dict, file_name)
+
+        # Wallet address
+        wallet_address = input("(input 'end' to exit) Enter the wallet address: ")
+        stop_running_check(wallet_address, account_dict, file_name)
+        wallet_address = validate_wallet_address(wallet_address, account_dict, file_name)
+        wallet_address = check_if_wallet_address_already_in_account_dictionary(wallet_address, account_dict, file_name)
 
         # Private key
         # private_key = input("Enter the private key: ")
