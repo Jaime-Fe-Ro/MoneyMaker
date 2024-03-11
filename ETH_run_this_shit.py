@@ -192,7 +192,7 @@ async def main(eth):
             print(f"Time elapsed: {time_elapsed_timedelta}")
             print(f"Requests per second: {rps}\n")
             print(f"Requests per wallet: {rpw}")
-            print(f"Wallets looped: {accounts_looped}")
+            print(f"Wallets in dictionary running: {accounts_looped}")
             print("\n\n-------------------------------------------------------------------\n")
 
 
